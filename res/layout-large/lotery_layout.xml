@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:gravity="center_horizontal"
+	android:background="@drawable/rect3006" android:layout_height="match_parent"
+	android:baselineAligned="true" android:orientation="vertical">
+
+    <TextView android:text="@string/chooseAJob" 
+			android:id="@+id/lotery_title" 
+			android:layout_width="wrap_content"
+			android:layout_centerHorizontal="true"
+			android:layout_marginTop="20dip" 
+			android:textSize="35dip"
+			android:textColor="#000"
+			android:textStyle="bold"
+			android:layout_gravity="center_horizontal"
+			android:layout_height="wrap_content" />  
+
+	<LinearLayout android:gravity="center_horizontal" android:layout_marginTop="30dip" android:baselineAligned="true" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+
+		<ImageView android:src="@drawable/card_art_1b"
+			android:id="@+id/lotery_img_card1" android:layout_alignParentLeft="true"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:onClick="onClickCard" />
+
+		<ImageView android:src="@drawable/card_draw_1b"
+			android:id="@+id/lotery_img_card2" android:layout_alignParentLeft="true"
+			android:layout_marginLeft="20dip"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickCard" />
+			
+		<ImageView android:src="@drawable/card_bonus_3b"
+			android:id="@+id/lotery_img_card3" android:layout_alignParentLeft="true"
+			android:layout_marginLeft="20dip"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickCard" />
+			
+	</LinearLayout>
+
+	<LinearLayout android:gravity="center_horizontal" android:layout_marginTop="50dip" android:baselineAligned="true" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+		
+		<ImageView android:src="@drawable/card_art_2b"
+			android:id="@+id/lotery_img_card11" android:layout_alignParentLeft="true"
+			 android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:onClick="onClickCard" />
+
+		<ImageView android:src="@drawable/card_draw_2b"
+			android:id="@+id/lotery_img_card21" android:layout_alignParentLeft="true"
+			android:layout_marginLeft="20dip"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickCard" />
+			
+		<ImageView android:src="@drawable/card_bonus_4b"
+			android:id="@+id/lotery_img_card31" android:layout_alignParentLeft="true"
+			android:layout_marginLeft="20dip"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickCard" />
+	</LinearLayout>
+</LinearLayout>

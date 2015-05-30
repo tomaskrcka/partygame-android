@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rect3006"
+    android:baselineAligned="true"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="right"
+        android:orientation="horizontal"
+        android:paddingBottom="30dip"
+        android:paddingTop="10dip" >
+
+        <TextView
+            android:id="@+id/jobtime_txt_clock"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@drawable/jobtime_timer"
+            android:gravity="right"
+            android:paddingRight="50dip"
+            android:paddingTop="30dip"
+            android:text=""
+            android:textColor="#000"
+            android:textSize="40dip" >
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="170dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingTop="10dip" >
+
+        <TextView
+            android:id="@+id/jobtime_job"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/jobtime_jobbox"
+            android:gravity="center"
+            android:paddingTop="10dip"
+            android:text=""
+            android:textColor="#000"
+            android:textSize="22dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal"
+        android:paddingTop="15dip" >
+
+        <Button
+            android:id="@+id/jobtime_btn_yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_yes"
+            android:onClick="onClickYesBtn" />
+
+        <Button
+            android:id="@+id/jobtime_btn_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dip"
+            android:background="@drawable/button_no"
+            android:onClick="onClickNoBtn" />
+    </LinearLayout>
+
+</LinearLayout>

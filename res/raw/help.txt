@@ -1,0 +1,30 @@
+<b>Instructions</b> <br />
+<b>Number of players:</b> 4-12 <br />
+<b>Objective of the game:</b> Teams try to gather game points by guessing concepts and reach the winning score as quickly as possible. <br />
+<b>Tools needed for playing:</b> pencil and paper
+<br />
+<b>Game preparation:</b> <br />
+Before the game players split into teams of at least 2x2 players.<br />
+<br />
+After selecting the “game” option, split into teams and proceed to the page where you enter the names of your teams.<br />
+Proceed then to the game field which contains the bars showing scores and team order.<br />
+The button below the bars determines which team will guess next.<br />
+<br />
+The team whose turn it is has the following cards placed on the display: <br/> 
+	- Drawing <br />
+	- Pantomime <br />
+	- Question mark card <br />
+
+<b>Pantomime card</b> – contains a concept that must be performed in a pantomime show. When presenting, no sounds are allowed to be produced and no objects to be used or pointed to.<br />
+<b>Drawing card</b> – contains a concept one must draw. When drawing, one is not allowed to speak and gesture, drawing cannot contain letters or numbers.<br />
+<b>Question mark card</b> – can imply either pantomime or drawing. Question mark cards have the highest point value. However, in the event of failure points are deducted from the account according to the card value.<br />
+
+<b>Playing the game</b><br />
+Every new round the team whose turn it is selects a player as its representative to illustrate a specified concept (task). 
+<br />In subsequent rounds, the players of a team take turns playing this role.<br />
+After a card with a task (concept) is selected, 
+player (representative) attempts to depict it in a way most recognizable to other players. They all shout out loud what they think the specified concept could be. Player (representative) must not in any way respond to the cries until the moment a team guesses the concept!<br />
+
+<b>Note:</b><br />
+If a player (representative) violates any of the rules (e.g. by producing sounds during a pantomime performance), the task is considered failed and the next team continues the game.
+After a task is complete (or failed), confirm the fact with the appropriate button. On this basis, the credit point(s) will be added to the bar.

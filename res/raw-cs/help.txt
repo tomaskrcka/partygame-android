@@ -1,0 +1,39 @@
+<b>Návod</b> <br />
+<b>Počet hráčů:</b> 4-12 <br />
+<b>Cíl hry:</b> 
+Družstva se snaží uhodnutím pojmů nasbírat co nejrychleji vítězný počet bodů. <br />
+<b>Pomůcky ke hře:</b> Tužka a papír
+<br />
+<br />
+
+
+<b>Příprava hry:</b><br />
+Hráči se před hrou rozdělí na týmy a to v minimálním počtu 2x2<br /> 
+<br />
+Po volbě hra se rozdělíte na týmy a posunete se na stránku, kde si své týmy pojmenujete.<br />
+Dále  pokračujete na herní pole, na kterém jsou tubusy znázorňující bodové stavy a pořadí týmů.<br /> 
+Tlačítko pod tubusy určuje jaký tým bude jako další hádat.<br />
+<br />
+Tým, který je na řadě, má na displeji rozmístěné  karty na téma 
+<br />
+ 	- malování <br />
+	- pantomima <br />
+	- karty s otazníkem <br />
+<br />
+<b>Karta pantomima</b>  -  pod kartou pantomima je pojem, který se musí pantomimicky předvést. Při předvádění se nesmí vydávat jakékoliv zvuky, používat předměty nebo na ně ukazovat.<br />
+<br />
+<b>Karta malování</b>  - pod kartou malování se hádaný pojem kreslí. Při kreslení se nesmí mluvit, gestikulovat, kresba nesmí obsahovat písmena ani čísla. <br />
+ <br />
+<b>Karta s otazníkem</b> - pod touto kartou se může ukrývat jak pantomima tak malování. Karty s otazníkem  mají největší bodovou hodnotu. Avšak v případě nesplnění jsou z konta odečteny body dle bodového ohodnocení. <br />
+<br />
+<b>Průběh hry</b><br />
+Každé nové kolo vybere družstvo, které začíná, ze svých hráčů reprezentata, 
+aby znázornil zadaný pojem (úkol). <br /><br />
+V následujících kolech se hráči v rámci družstva v této roli postupně vystřídají. <br /><br />
+Po zvolení určité karty se objeví úkol (pojem), který se hráč (reprezentant), pokouší co nejsrozumitelněji přiblížit svým spoluhráčům. Ti nahlas vykřikují vše, o čem se domnívají, že by mohl být zadaný pojem. Hráč (reprezentant) nesmí na výkřiky jakkoliv reagovat! Pouze v momentě, kdy družstvo zadaný pojem uhodne. <br />
+<br />
+<b>Poznámka:</b>
+<br />
+Pokud hráč (reprezentant) poruší některé z pravidel (např. tím, že během pantomie vydává zvuky) považuje se úkol jako nesplněn a pokračuje další tým.
+Po uhodnutí(neuhodnutí) pojmu potvrdíte tlačítko splnil či tlačítko nesplnil. 
+Na tomto základě se připíše bod(y) do tubusu.

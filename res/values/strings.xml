@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, android1!</string>
+    <string name="app_name">Party Game</string>
+    <string name="game">New game</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="threePlayers">3 players</string>
+    <string name="twoTeams">2 teams</string>
+    <string name="threeTeams">3 teams</string>
+    <string name="teamname">Team name</string>
+    <string name="playername">Player names</string>
+    <string name="player">Player</string>
+    <string name="team">Team</string>
+    <string name="draw">draw</string>
+    <string name="pantomime">pantomime</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="themeSettings">Theme settings</string>
+    <string name="sport">Sport</string>
+    <string name="jobs">Jobs</string>
+    <string name="erotica">Erotica</string>
+    <string name="soundSettings">Sound settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="difficultySettings">Difficulty settings</string>
+    <string name="splashScreen">SplashScreen</string>
+    <string name="loadingApp">Loading</string>
+    <string name="start">Start</string>
+    <string name="playerNames">Player names</string>
+    <string name="gameOver">Game over</string>
+    <string name="chooseAJob">Choose a job</string>
+    <string name="startGuessing">Start guessing</string>
+    <string name="selectATask">Select a task</string>
+    <string name="resume">Resume</string>
+    <string name="winnerPlayer">Winner is player</string>
+    <string name="pauseGame">Pause</string>
+    <string name="backToMainMenu">Back to Mainmenu</string>
+    <string name="timeout">Timeout</string>
+    <string name="guessed">Has been the question guessed ?</string>
+</resources>

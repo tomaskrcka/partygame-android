@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rect3006"
+    android:orientation="vertical" >
+
+	<!-- <ImageView android:layout_marginTop="10dip" 
+		 android:layout_centerHorizontal="true"
+		android:id="@+id/teamname_img_teamname"
+		android:src="@drawable/playernamelayout_top_240"
+		android:layout_width="wrap_content" android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content"/>  -->
+	<TextView android:text="@string/playerNames" 
+			android:id="@+id/teamname_textView1" 
+			android:layout_width="wrap_content"
+			android:layout_marginTop="20dip" 
+			android:textSize="40dip"
+			android:textColor="#000"
+			android:textStyle="bold"
+			android:layout_gravity="center_horizontal"
+			android:layout_height="wrap_content" />  
+		
+	<RelativeLayout android:id="@+id/teamname_srlayout_edtxts"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:gravity="center_horizontal" android:layout_marginTop="20dip"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:layout_gravity="center">
+
+		<EditText android:id="@+id/teamname_edtxt_1"
+			android:maxLength="8" android:layout_height="65dip" android:textSize="24dp"
+			android:layout_width="match_parent" android:text=""
+			android:layout_marginLeft="10dip" android:layout_marginRight="10dip" />
+		<EditText android:id="@+id/teamname_edtxt_2"
+			android:layout_width="match_parent" android:maxLength="8" android:textSize="24dp"
+			android:layout_height="65dip" android:layout_below="@+id/teamname_edtxt_1"
+			android:layout_alignLeft="@+id/teamname_edtxt_1"
+			android:layout_alignRight="@+id/teamname_edtxt_1" />
+		
+		<EditText android:id="@+id/teamname_edtxt_3"
+			android:layout_width="match_parent" android:maxLength="8"
+			android:layout_height="65dip" android:layout_below="@+id/teamname_edtxt_2"
+			android:layout_alignLeft="@+id/teamname_edtxt_1"
+			android:layout_alignRight="@+id/teamname_edtxt_1" android:textSize="24dp" />
+
+	</RelativeLayout>
+
+	<RelativeLayout
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/teamname_rlayout_btns"
+	    android:layout_width="fill_parent"
+	    android:layout_height="match_parent"
+	    android:layout_gravity="bottom"
+	    android:gravity="top" 
+	    android:layout_marginTop="20dp">
+
+	    <Button
+	        android:id="@+id/teamname_btn_start"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:background="@drawable/button_main"
+	        android:onClick="onClickStartBtn"
+	        android:text="@string/start"
+	        android:textSize="32dp" />
+	</RelativeLayout>
+
+</LinearLayout>

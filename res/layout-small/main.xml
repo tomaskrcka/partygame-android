@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	 android:layout_height="match_parent" android:orientation="vertical"
+	 android:background="@drawable/rect3006" 
+	 >
+
+	<ImageView
+	    android:id="@+id/imageView1"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center_horizontal"
+	    android:paddingBottom="5dip"
+	    android:paddingTop="5dip"
+	    android:src="@drawable/main_top" >
+</ImageView>
+	<LinearLayout android:id="@+id/main_llayout_btn"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+		android:gravity="clip_horizontal" 
+		android:layout_gravity="center_horizontal">
+		
+		<Button android:id="@+id/main_btn_resume" android:text="@string/resume" 
+			android:background="@drawable/button_main_draw"
+			android:layout_gravity="center_horizontal"
+			android:paddingLeft="35dp"
+			android:paddingTop="4dp"
+			android:layout_marginTop="1dip"
+			android:textSize="18dp" android:layout_height="wrap_content" 
+			android:layout_width="wrap_content" android:onClick="onClickResumeBtn"
+			>
+		</Button>
+		
+		<Button android:id="@+id/main_btn_game" android:text="@string/game" 
+			android:background="@drawable/button_main_draw" 
+			android:layout_gravity="center_horizontal"
+			android:layout_marginTop="4dip"
+			android:paddingTop="4dp"
+			android:paddingLeft="45dip"
+			android:textSize="18dp" android:layout_height="wrap_content" 
+			android:layout_width="wrap_content" android:onClick="onClickGameBtn">
+		</Button>
+		
+		<Button android:id="@+id/main_btn_settings" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/settings"
+			android:layout_gravity="center_horizontal" android:paddingLeft="35dip"
+			android:paddingTop="4dp"
+			android:background="@drawable/button_main_draw" android:onClick="onClickSettingsBtn"
+			android:layout_marginTop="4dip" android:textSize="18dp">
+		</Button>
+		
+		<Button android:id="@+id/main_btn_help" android:text="@string/help"
+			android:background="@drawable/button_main_draw" 
+			android:layout_gravity="center_horizontal" android:paddingLeft="35dip"
+			android:paddingTop="4dp"
+			android:layout_marginTop="4dip" android:textSize="18dp" android:onClick="onClickHelpBtn"
+			android:layout_width="wrap_content" android:layout_height="wrap_content">
+		</Button>
+		
+		
+		<!-- <Button android:id="@+id/main_btn_us" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/button_us"
+			android:layout_below="@+id/btn_help" android:layout_marginTop="10dip"
+			android:layout_centerHorizontal="true"
+			android:layout_marginLeft="10dip"
+			android:visibility="invisible">
+		</Button>
+		<Button android:id="@+id/main_btn_de" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/button_de"
+			android:layout_marginTop="10dip"
+			android:layout_alignBottom="@+id/main_btn_us"
+			android:layout_toRightOf="@+id/main_btn_us"
+			android:layout_marginLeft="10dip"
+			android:visibility="invisible"
+			>
+		</Button>
+		<Button android:id="@+id/main_btn_cze" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:background="@drawable/button_cze"
+			android:layout_marginTop="10dip"
+			android:layout_alignBottom="@+id/main_btn_us"
+			android:layout_toLeftOf="@+id/main_btn_us"
+			android:layout_marginLeft="10dip"
+			android:visibility="invisible">
+		</Button> -->
+
+	</LinearLayout>
+</LinearLayout>

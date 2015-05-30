@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, android1!</string>
+    <string name="app_name">Party Game</string>
+    <string name="game">Nová hra</string>
+    <string name="settings">Nastavení</string>
+    <string name="help">Nápověda</string>
+    <string name="threePlayers">3 hráči</string>
+    <string name="twoTeams">2 týmy</string>
+    <string name="threeTeams">3 týmy</string>
+    <string name="teamname">Název týmu</string>
+    <string name="playername">Jména hráčů</string>
+    <string name="player">Hráč</string>
+    <string name="team">Tým</string>
+    <string name="draw">Namaluj</string>
+    <string name="pantomime">Předveď</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="easy">Lehká</string>
+    <string name="medium">Střední</string>
+    <string name="hard">Težká</string>
+    <string name="themeSettings">Nastavení témat</string>
+    <string name="sport">Sport</string>
+    <string name="jobs">Práce</string>
+    <string name="erotica">Erotika</string>
+    <string name="soundSettings">Nastavení zvuku</string>
+    <string name="save">Uložit</string>
+    <string name="cancel">Zrušit</string>
+    <string name="difficultySettings">Nastavení obtížnosti</string>
+    <string name="splashScreen">SplashScreen</string>
+    <string name="loadingApp">Loading</string>
+    <string name="start">Start</string>
+    <string name="playerNames">Jména hráčů</string>
+    <string name="gameOver">Konec hry</string>
+    <string name="chooseAJob">Vyberte úkol</string>
+    <string name="startGuessing">Začít hádat</string>
+    <string name="selectATask">Vyberte úkol</string>
+    <string name="resume">Pokračovat</string>
+    <string name="winnerPlayer">Vítězem je hráč </string>
+    <string name="pauseGame">Pauza</string>
+    <string name="backToMainMenu">Návrat na hlavní stránku ?</string>
+    <string name="timeout">Čas vypršel</string>
+    <string name="guessed">Byla otázka uhádnuta ?</string>
+</resources>
